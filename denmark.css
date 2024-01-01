@@ -1,0 +1,32 @@
+.container{
+    margin-left: 12%;
+    margin-right: 12%;
+    border:1px solid black
+}
+.red-box{
+    background-color: red;
+    width:100%;
+    height:600px;
+    position:relative;
+
+
+}
+.white-box-v{
+    position:absolute;
+    left:150px;
+    height: 600px;
+    width:150px;
+    background-color: white;
+}
+.white-box-h{
+    position:absolute;
+    top:225px;
+    height:150px;
+    width:100%;
+    background-color:white;
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:40px;
+}
