@@ -1,0 +1,32 @@
+.container{
+    display: inline-flex;
+    margin-left: 14%;
+    
+    width:80%;
+    height:600px
+}
+.green-box{
+    background-color: #008751;
+    width:35%;
+    height:600px
+}
+.yellow-box{
+    position:relative;
+    background-color: #FCD116;
+    width:55%;
+    height:300px;
+
+}
+.red-box{
+    position:absolute;
+    top:300px;
+    
+    background-color: #E8112D;
+    width:100%;
+    height:300px;
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:40px;
+}
